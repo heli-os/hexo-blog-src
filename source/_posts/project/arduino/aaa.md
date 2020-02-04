@@ -6,5 +6,5 @@ categories:
   - Project
   - Arduino
 date: 2020-01-31 13:14:40
-thumbnail: /images/post_include/passport-js-manual-01_0001.jpg
+thumbnail: /images/post_include/ync_genie_00.jpg
 ---
