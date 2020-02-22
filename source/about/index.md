@@ -33,13 +33,13 @@ share: false
  
 ## 프로젝트
 * **HTML5 Delivery Tracker**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/html5_ync_delivery-tracker)
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/html5_ync_delivery-tracker) / [LiveDemo](https://delivery.jupiterflow.com/)
 * **icmsManager**
  바로가기 : [GitHub](https://github.com/JupiterFlow/icmsManager)
 * **icms**
  바로가기 : [GitHub](https://github.com/JupiterFlow/icms)
 * **PIRARE**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/pirare)
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/pirare) / [LiveDemo](https://pirare.jupiterflow.com/)
 * **스마트 공기 청정기 - Genie**
  바로가기 : [GitHub](https://github.com/JupiterFlow/nodeMCU_air-purifier)
 * **Pokemon**
