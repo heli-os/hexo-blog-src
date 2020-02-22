@@ -32,8 +32,16 @@ share: false
  2020.00.00 ~ 2022.00.00
  
 ## 프로젝트
-* **AAAA**
- BBBB
+* **스마트 공기 청정기 - Genie**
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/nodeMCU_air-purifier)
+* **Pokemon**
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/pokemon)
+* **icmsManager**
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/icmsManager)
+* **icms**
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/icms)
+* **HTML5 Delivery Tracker**
+ 바로가기 : [GitHub](https://github.com/JupiterFlow/html5_ync_delivery-tracker)
 
 ## 활동
 * **2019 대경벤처 예비창업 기본과정 수료**
