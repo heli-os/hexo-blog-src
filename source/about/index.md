@@ -47,7 +47,7 @@ share: false
  바로가기 : [GitHub](https://github.com/JupiterFlow/icms)
 * **PIRARE**
  바로가기 : [GitHub](https://github.com/JupiterFlow/pirare) / [LiveDemo](https://pirare.jupiterflow.com/)
-* **스마트 공기 청정기 - Genie**
+* **스마트 공기 청정기 지니**
  바로가기 : [GitHub](https://github.com/JupiterFlow/nodeMCU_air-purifier) / [LiveDemo](https://genie.jupiterflow.com/)
 * **Pokemon**
  바로가기 : [GitHub](https://github.com/JupiterFlow/pokemon)
