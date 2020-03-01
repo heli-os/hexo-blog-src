@@ -7,6 +7,7 @@
         <%- index ? '</a>' : '</span>' %>
     </div>
     <% } %>
+    <% if (!index) partial('ads/adsense(view-top)')%>
     <div class="card-content article <%= post.hasOwnProperty('direction') ? post.direction : '' %>">
         <% if (post.layout != 'page') { %>
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
@@ -38,7 +39,6 @@
             </div>
         </div>
         <% } %>
-        <% if (!index) partial('ads/adsense(view-top)')%>
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             <% if (index) { %>
                 <a class="has-link-black-ter" href="<%- url_for(post.link ? post.link : post.path) %>"><%= post.title %></a>
@@ -75,8 +75,8 @@
         <% if (!index && has_config('share.type')) { %>
         <%- _partial('share/' + get_config('share.type')) %>
         <% } %>
-        <% if (!index) partial('ads/adsense(view-bottom)')%>
     </div>
+    <% if (!index) partial('ads/adsense(view-bottom)')%>
 </div>
 <% const services = has_config('donate') ? get_config('donate') : []; %>
 <% if (!index && services.length > 0) { %>
