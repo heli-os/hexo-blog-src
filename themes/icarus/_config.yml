@@ -133,6 +133,9 @@ widgets:
                 icon: fas fa-rss
                 url: /
     -
+        type: adsense(main-right)
+        position: right
+    -
         # Widget name
         type: toc
         # Where should the widget be placed, left or right
