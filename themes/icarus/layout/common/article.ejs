@@ -1,4 +1,5 @@
 <% post = post(); %>
+<% if (!index) partial('ads/adsense(view-top)')%>
 <div class="card">
     <% if (has_thumbnail(post)) { %>
     <div class="card-image">
@@ -7,7 +8,6 @@
         <%- index ? '</a>' : '</span>' %>
     </div>
     <% } %>
-    <% if (!index) partial('ads/adsense(view-top)')%>
     <div class="card-content article <%= post.hasOwnProperty('direction') ? post.direction : '' %>">
         <% if (post.layout != 'page') { %>
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
