@@ -1,6 +1,10 @@
 <% post = post(); %>
 <% if (!index) { %>
-<%- partial('../ads/adsense(view-top)') %>
+    <div class="card">
+        <div class="card-content">
+            <%- partial('../ads/adsense(view-top)') %>
+        </div>
+    </div>
 <% } %>
 <div class="card">
     <% if (has_thumbnail(post)) { %>
@@ -117,13 +121,13 @@
     </div>
 </div>
 <% } %>
+<% if (!index) { %>
 <div class="card">
     <div class="card-content">
-        <% if (!index) { %>
             <%- partial('../ads/adsense(view-bottom)') %>
-        <% } %>
     </div>
 </div>
+<% } %>
 <% if (!index && has_config('comment.type')) { %>
 <div class="card">
     <div class="card-content">
