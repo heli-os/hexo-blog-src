@@ -76,7 +76,7 @@ search:
 comment:
     # Name of the comment plugin
     type: disqus
-    shortname: JupiterFlow-blog
+    shortname: jupiterflow-blog
 # Donation entries
 # https://blog.zhangruipeng.me/hexo-theme-icarus/categories/Plugins/Donation/
 
