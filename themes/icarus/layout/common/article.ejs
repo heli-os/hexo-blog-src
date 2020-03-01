@@ -72,10 +72,10 @@
             </div>
         </div>
         <% } %>
+        <%- if(!index) partial('../ads/adsense(view-bottom)') %>
         <% if (!index && has_config('share.type')) { %>
         <%- _partial('share/' + get_config('share.type')) %>
         <% } %>
-        <%- if(!index) partial('../ads/adsense(view-bottom)') %>
     </div>
 </div>
 <% const services = has_config('donate') ? get_config('donate') : []; %>
