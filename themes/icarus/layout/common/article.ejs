@@ -75,9 +75,8 @@
         <%- _partial('share/' + get_config('share.type')) %>
         <% } %>
     </div>
-    <%- partial('ads/adsense(view-bottom)')%>
 </div>
-
+<%- partial('ads/adsense(view-bottom)')%>
 <% const services = has_config('donate') ? get_config('donate') : []; %>
 <% if (!index && services.length > 0) { %>
 <div class="card">
