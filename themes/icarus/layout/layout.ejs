@@ -19,7 +19,7 @@
     <section class="section">
         <div class="container">
             <div class="columns">
-                <div class="column <%= main_column_class() %> has-order-2 column-main"><%- partial('ads/adsense(view-top)')%><%- body %></div>
+                <div class="column <%= main_column_class() %> has-order-2 column-main"><% if(!index) partial('ads/adsense(view-top)')%><%- body %></div>
                 <%- _partial('common/widget', { position: 'left' }) %>
                 <%- _partial('common/widget', { position: 'right' }) %>
             </div>
