@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Allow: /ads.txt
-Sitemap: https://jupiterflow.com/sitemap.xml
+Sitemap: https://blog.jupiterflow.com/sitemap.xml
