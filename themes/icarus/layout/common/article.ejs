@@ -76,7 +76,6 @@
         <% } %>
     </div>
 </div>
-<%- partial('ads/adsense(view-bottom)')%>
 <% const services = has_config('donate') ? get_config('donate') : []; %>
 <% if (!index && services.length > 0) { %>
 <div class="card">
@@ -93,7 +92,7 @@
     </div>
 </div>
 <% } %>
-
+<% if (!index) partial('ads/adsense(view-bottom)')%>
 <% if (!index && (post.prev || post.next)) { %>
 <div class="card card-transparent">
     <div class="level post-navigation is-flex-wrap is-mobile">
