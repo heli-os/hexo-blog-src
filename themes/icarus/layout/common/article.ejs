@@ -1,5 +1,5 @@
 <% post = post(); %>
-<%- partial('../ads/adsense(view-top)') %>
+<%- if(!index) partial('../ads/adsense(view-top)') %>
 <div class="card">
     <% if (has_thumbnail(post)) { %>
     <div class="card-image">
@@ -75,7 +75,7 @@
         <% if (!index && has_config('share.type')) { %>
         <%- _partial('share/' + get_config('share.type')) %>
         <% } %>
-        <%- partial('../ads/adsense(view-bottom)') %>
+        <%- if(!index) partial('../ads/adsense(view-bottom)') %>
     </div>
 </div>
 <% const services = has_config('donate') ? get_config('donate') : []; %>
