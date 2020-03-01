@@ -1,5 +1,5 @@
 ---
-title: "구글 광고, Google Adsense 계정 생성 및 삽입"
+title: "구글 광고, Google Adsense 계정 생성과 적용"
 thumbnail: /images/post_include/adsense/logo.png
 date: 2020-03-02 00:13:00 +0900
 tags: [Talk,구글애드센스,Google Adsense]
@@ -23,7 +23,7 @@ Google 애드센스는 웹 사이트에 광고를 게재하여 무료로 손쉽�
 계정 신청 후 승인까지는 빠르면 며칠, 길게는 몇주가 걸릴 수 있다고하는데.. 필자는 한국 시간 2월 29일 오후 10시 즈음 신청하여 그 다음날인 3월 1일 오전 6시경 승인 이메일을 수신했다. 즉, 8시간밖에 걸리지 않은것이다.
 
 
-# Google 애드센스 광고 삽입
+# Google 애드센스 광고 생성
 ![Google 애드센스 광고 설정](/images/post_include/adsense/2020_03_02_00_21_34_941.png "Google 애드센스 광고 설정")
 계정 활성화 이메일을 수신한 뒤 구글 애드센스 페이지에 접속해보면 위와 같은 메뉴를 확인할 수 있다. 이 곳에서 광고->개요 메뉴를 선택하자.
 
