@@ -1,11 +1,13 @@
 <% post = post(); %>
-<% if (!index) { %>
-    <div class="card">
-        <div class="card-content">
-            <%- partial('../ads/adsense(view-top)') %>
-        </div>
-    </div>
-<% } %>
+<!--애드센스 설정-->
+<!--<% if (!index) { %>-->
+<!--    <div class="card">-->
+<!--        <div class="card-content">-->
+<!--            <%- partial('../ads/adsense(view-top)') %>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--<% } %>-->
+
 <div class="card">
     <% if (has_thumbnail(post)) { %>
     <div class="card-image">
@@ -123,13 +125,15 @@
     </div>
 </div>
 <% } %>
-<% if (!index) { %>
-<div class="card">
-    <div class="card-content">
-            <%- partial('../ads/adsense(view-bottom)') %>
-    </div>
-</div>
-<% } %>
+<!--애드센스 설정-->
+<!--<% if (!index) { %>-->
+<!--<div class="card">-->
+<!--    <div class="card-content">-->
+<!--            <%- partial('../ads/adsense(view-bottom)') %>-->
+<!--    </div>-->
+<!--</div>-->
+<!--<% } %>-->
+
 <% if (!index && has_config('comment.type')) { %>
 <div class="card">
     <div class="card-content">
