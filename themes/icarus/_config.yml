@@ -132,7 +132,7 @@ widgets:
             RSS:
                 icon: fas fa-rss
                 url: /
-    -
+#    -
 #        type: adsense(main-right)
 #        position: right
     -
