@@ -132,9 +132,9 @@ widgets:
             RSS:
                 icon: fas fa-rss
                 url: /
-    -
-        type: adsense(main-right)
-        position: right
+#    -
+#        type: adsense(main-right)
+#        position: right
     -
         # Widget name
         type: toc
