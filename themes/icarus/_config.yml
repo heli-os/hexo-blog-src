@@ -133,7 +133,7 @@ widgets:
                 icon: fas fa-rss
                 url: /
     -
-        type: 20200302(main-right)
+        type: adsense(main-right)
         position: right
     -
         # Widget name
