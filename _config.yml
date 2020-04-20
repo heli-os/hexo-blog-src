@@ -7,7 +7,7 @@ title: JupiterFlow Blog
 subtitle: 'JupiterFlow Tech Blog'
 description: 'My studying note'
 keywords:
-author: Keriel
+author: 썬님
 language: ko
 timezone: 'Asia/Seoul'
 
@@ -101,5 +101,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/JupiterFlow/JupiterFlow.github.io.git
+  repo: https://github.com/960813/960813.github.io.git
   branch: master
