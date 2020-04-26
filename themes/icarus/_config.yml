@@ -114,7 +114,7 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Republic of Korea
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: images/jupiter.svg
+        avatar: images/profile_image.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square
