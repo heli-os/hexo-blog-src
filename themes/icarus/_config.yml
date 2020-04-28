@@ -180,7 +180,7 @@ plugins:
     # https://blog.zhangruipeng.me/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
     google-analytics:
         # Google Analytics tracking id
-        tracking_id: 
+        tracking_id: 'UA-160190724-4'
     # Baidu Analytics plugin settings
     # https://blog.zhangruipeng.me/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
     baidu-analytics:
