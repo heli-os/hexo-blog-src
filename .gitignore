@@ -10,4 +10,4 @@ public/
 *.bat
 
 _secure_configure_/
-_config.yml
+/_config.yml
