@@ -8,3 +8,5 @@ public/
 .idea/
 *.sh
 *.bat
+
+_config.yml

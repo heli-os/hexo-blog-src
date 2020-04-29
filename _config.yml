@@ -99,7 +99,17 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#deploy:
+#  type: git
+#  repo: https://github.com/960813/960813.github.io.git
+#  branch: master
 deploy:
-  type: git
-  repo: https://github.com/960813/960813.github.io.git
-  branch: master
+  type: sftp
+  host: <host>
+  user: <user>
+  pass: <password>
+  remotePath: [remote path]
+  port: [port]
+  privateKey: [path/to/privateKey]
+  passphrase: [passphrase]
+  agent: [path/to/agent/socket]
