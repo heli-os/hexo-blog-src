@@ -9,4 +9,5 @@ public/
 *.sh
 *.bat
 
-_config.yml
+_secure_configure_/
+/_config.yml
