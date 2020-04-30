@@ -36,7 +36,7 @@ navbar:
     links:
         Go to GitHub:
             icon: fab fa-github
-            url: 'https://github.com/JupiterFlow'
+            url: 'https://github.com/960813'
 # Footer section link settings
 footer:
     # Links to be shown on the right of the footer section
@@ -120,12 +120,12 @@ widgets:
         # Whether to show avatar image rounded or square
         avatar_rounded: false
         # Path or URL for the follow button
-        follow_link: 'https://github.com/JupiterFlow'
+        follow_link: 'https://github.com/960813'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/JupiterFlow'
+                url: 'https://github.com/960813'
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://facebook.com'
