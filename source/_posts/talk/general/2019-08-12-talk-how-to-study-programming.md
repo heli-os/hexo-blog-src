@@ -1,5 +1,5 @@
 ---
-title: "프로그래밍 공부는 어떻게 해야하는가, 프로그래밍 공부 방법"
+title: "프로그래밍 공부는 어떻게 해야하는가? 프로그래밍 공부 방법"
 thumbnail: /images/post_include/2019-08-12-talk-how-to-study-programming_0001.jpg
 date: 2019-08-12 19:15:00 +0900
 toc: true
