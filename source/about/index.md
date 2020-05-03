@@ -11,17 +11,15 @@ share: false
 ***
 ## 프로젝트
 * **HTML5 Delivery Tracker**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/html5_ync_delivery-tracker) / [LiveDemo](https://delivery.jupiterflow.com/)
-* **icmsManager**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/icmsManager)
-* **icms**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/icms)
+ 바로가기 : [Introduce](https://jupiterflow.com/project/1)
+* **스마트 사이니지 API & Interface**
+ 바로가기 : [Introduce](https://jupiterflow.com/project/2)
 * **PIRARE**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/pirare) / [LiveDemo](https://pirare.jupiterflow.com/)
+ 바로가기 : [Introduce](https://jupiterflow.com/project/3)
 * **스마트 공기 청정기 지니**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/nodeMCU_air-purifier) / [LiveDemo](https://genie.jupiterflow.com/)
+ 바로가기 : [Introduce](https://jupiterflow.com/project/4)
 * **Pokemon**
- 바로가기 : [GitHub](https://github.com/JupiterFlow/pokemon)
+ 바로가기 : [Introduce](https://jupiterflow.com/project/5)
  
 ## 대회
 * **대구광역시 공공데이터 활용 경진대회 본선 진출**
