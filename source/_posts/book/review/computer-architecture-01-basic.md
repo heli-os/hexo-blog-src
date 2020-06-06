@@ -35,7 +35,7 @@ thumbnail: /images/post_include/computer-architecture/book_poster.jpg
 
 ## **기본문제 1.6**
 * 정답: 다. 0~255
-* 풀이: 양의 정수형 데이터의 범위는 0~2<sup>n</sup>-1 이다. 즉, 0~2<sup>8</sup>-1 = 0~255이다. 
+* 풀이: 양의 정수형 데이터의 범위는 0\~2<sup>n</sup>-1 이다. 즉, 0\~2<sup>8</sup>-1 = 0~255이다. 
 
 ## **기본문제 1.7**
 * 정답: 라. 4096
