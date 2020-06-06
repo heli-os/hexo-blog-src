@@ -12,7 +12,7 @@ thumbnail: /images/post_include/computer-architecture/book_poster.jpg
 > 저작권법 등의 문제로 문제를 제외한 답과 풀이만을 제공합니다.  
 > 개인적으로 학습하며 풀이하였기때문에 <font color='red'>틀린 답</font>이 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
-# 범위: P.46 ~ 49
+# 01장 기본문제: P.46 ~ 49
 ## **기본문제 1.1**
 * 정답: 라. 캐시메모리
 * 풀이: [P.17 참고] 컴퓨터의 기본 구성요소는 기억장치, I/O장치, CPU이다.
