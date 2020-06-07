@@ -30,7 +30,7 @@ Prio의 경우 Priority(우선순위)인데 이는 크롤링 봇이 크롤링을
 
 이에 node_modules에 적재된 `hexo-geneator-seo-freidny-sitemap` 모듈(이하 본 모듈)의 소스 코드 자체를 분석해보고자 생각했다.
 
-본 모듈을 `--save`를 주어 설치하였을 경우 `node_modules/hexo-geneator-seo-friendly-sitemap` 폴더에 설치되어 있을 것이다. 폴더를 들어가 `lib/post.js` 소스 코드를 분석해보면 단순히 `post-sitemap.ejs` 템플릿을 바탕으로 sitemap.xml을 꾸리는 방식인 것을 확인할 수 있다.
+본 모듈을 `--save`를 주어 설치하였을 경우 `node_modules/hexo-geneator-seo-friendly-sitemap` 폴더에 설치되어 있을 것이다. 폴더를 들어가 `lib/post.js` 소스 코드를 분석해보면 단순히 `post-sitemap.ejs` 템플릿을 바탕으로 `sitemap.xml`을 꾸리는 방식인 것을 확인할 수 있다.
 
 그리고, `post-sitemap.ejs` 파일에는 아래와 같이 기술되어 있다.
 ```ejs
