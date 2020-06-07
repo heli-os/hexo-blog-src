@@ -17,13 +17,16 @@ thumbnail: /images/post_include/how-to-modify-changefreq-of-hexo-generator-seo-f
 
 ![문제의 sitemap.xml](/images/post_include/how-to-modify-changefreq-of-hexo-generator-seo-friendly-sitemap/SITEMAP_weekly.JPG "문제의 sitemap.xml")
 
-새롭게 작성한 게시글이 정상적으로 사이트맵에 생성되었지만 Ch.Freq. 즉, Change Frequency(갱신 주기)가 Weekly로 되어 있는 것을 확인할 수 있었다.
-Prio의 경우 Priority(우선순위)인데, 이는 크롤링 봇이 크롤링을 하는 데 있어 크게 영향을 미치지 않는다고 한다.
+새롭게 작성한 게시글이 정상적으로 사이트맵에 생성되었있었다.
+
+하지만 Ch.Freq. 즉, Change Frequency(갱신 주기)가 Weekly로 되어 있는 것을 확인할 수 있었다.
+
+Prio의 경우 Priority(우선순위)인데 이는 크롤링 봇이 크롤링을 하는 데 있어 크게 영향을 미치지 않는다고 한다.
 
 이를 바탕으로 문제를 해결해보고자 탐색을 시작했다.
 
 ## 문제 해결 과정
-구글에 `how to modify change frequency in hexo-generator-seo-friendly-sitemap`, `how to modify change frequency in hexo sitemap` 등의 키워드로 검색을 해보았지만, 유사 상황에 대한 Full Request나 Issues만 존재할 뿐 내 상황에 맞는 해결책은 없었다.
+구글에 `how to modify change frequency in hexo-generator-seo-friendly-sitemap`, `how to modify change frequency in hexo sitemap` 등의 키워드로 검색을 해보았지만 유사 상황에 대한 Full Request나 Issues만 존재할 뿐 내 상황에 맞는 해결책은 없었다.
 
 이에 node_modules에 적재된 `hexo-geneator-seo-freidny-sitemap` 모듈(이하 본 모듈)의 소스 코드 자체를 분석해보고자 생각했다.
 
@@ -62,4 +65,4 @@ changefreq가 weekly, priority가 0.6인 것이다. 이를 각각 daily, 0.8로 
 ## 결론
 만약 하루에 1개 이상의 포스팅을 진행할 자신이 있다면 change frequency를 daily로, 그렇지 않다면 weekly로 하는 것이 좋다고 생각한다.
 
-이제 곧 시험 기간이기도 하고, 학습한 내용을 블로그에 꾸준히 작성하는 것을 목표로 하고 있기에 나는 daily로 유지하여 운영해보고자 한다. 
+이제 곧 시험 기간이기도 하고, 학습한 내용을 블로그에 꾸준히 작성하는 것을 목표로 하고 있기에 나는 daily로 유지하여 운영해보고자 한다.~~~~~~~~ 
