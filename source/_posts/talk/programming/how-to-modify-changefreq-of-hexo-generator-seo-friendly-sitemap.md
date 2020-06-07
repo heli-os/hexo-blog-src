@@ -13,7 +13,7 @@ thumbnail: /images/post_include/how-to-modify-changefreq-of-hexo-generator-seo-f
 > 이 포스팅은 이를 확인하고, 해결한 내용을 다루고 있다.
 
 ## 문제 파악
-문제가 무엇인지 확인하고자 생성된 sitemap.xml을 우선 확인해보았다.
+문제가 무엇인지 확인하고자 생성된 `sitemap.xml`을 우선 확인해보았다.
 
 ![문제의 sitemap.xml](/images/post_include/how-to-modify-changefreq-of-hexo-generator-seo-friendly-sitemap/SITEMAP_weekly.JPG "문제의 sitemap.xml")
 
