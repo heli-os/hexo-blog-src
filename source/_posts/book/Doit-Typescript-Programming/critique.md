@@ -4,7 +4,7 @@ toc: false
 tags: [Doit,타입스크립트,이지스퍼블리싱,서평,서평단]
 categories:
   - Book
-  - Critique
+  - Doit-Typescript-Programming
 date: 2020-04-03 16:00:00
 thumbnail: /images/post_include/doit-typescript-programming/book.jpg
 ---
