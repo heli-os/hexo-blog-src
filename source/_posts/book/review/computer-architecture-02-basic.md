@@ -5,7 +5,7 @@ tags: [컴퓨터구조론,생능출판]
 categories:
   - Book
   - Review
-date: 2020-06-29 04:00:00
+date: 2020-06-29 03:00:00
 thumbnail: /images/post_include/computer-architecture/book_poster.jpg
 ---
 > 2019년 8월 12일 인쇄된 생능 출판의 김종현 저 컴퓨터구조론 제5판2쇄를 기준으로 작성되었습니다.  
