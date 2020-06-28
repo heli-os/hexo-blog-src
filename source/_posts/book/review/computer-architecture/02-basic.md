@@ -5,6 +5,7 @@ tags: [컴퓨터구조론,생능출판]
 categories:
   - Book
   - Review
+  - ComputerArchitecture
 date: 2020-06-29 03:00:00
 thumbnail: /images/post_include/computer-architecture/book_poster.jpg
 ---
