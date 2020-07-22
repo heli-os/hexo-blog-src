@@ -92,7 +92,7 @@ share: false
  발급기관 : 한국산업인력공단
 * **MOS Excel Expert**
  취득일 : 2019.06.05
- 발급기관 : YBM시사 Microsort
+ 발급기관 : YBM시사 Microsoft
 * **정보기술자격(ITQ)시험 아래한글 A등급**
  취득일 : 2019.06.13
  발급기관 : 한국생산성본부
