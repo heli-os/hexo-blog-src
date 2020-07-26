@@ -12,8 +12,34 @@ thumbnail: /images/post_include/algorithm_study/poster.png
 > 모든 실습 코드는 [WebKit's style guide](https://webkit.org/code-style-guidelines/)를 따라 작성됩니다.   
 > 개인적으로 학습하며 작성한 포스트이기 때문에 <font color='red'>오류</font>가 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
-# 개요
+# 실습코드
+```c
+#include <stdio.h>
 
+int main(void)
+{
+    int i, j, min, index, temp;
+    int array[10] = { 1, 10, 5, 8, 7, 6, 4, 3, 2, 9 };
+    for (i = 0; i < 10; ++i) {
+        min = 9999;
+        for (j = i; j < 10; ++j) {
+            if (min > array[j]) {
+                min = array[j];
+                index = j;
+            }
+        }
+        temp = array[i];
+        array[i] = array[index];
+        array[index] = temp;
+    }
+    for (i = 0; i < 10; ++i) {
+        printf("%d ", array[i]);
+    }
+
+    return 0;
+}
+```
+## 
 # 01장 기본문제: P.46 ~ 49
 ## **기본문제 1.1**
 * 정답: 라. 캐시메모리
