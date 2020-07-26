@@ -7,10 +7,9 @@ categories:
   - Study
 date: 2020-07-27 02:50:00
 thumbnail: /images/post_include/algorithm_study/poster.png
----
-> 2019년 8월 12일 인쇄된 생능 출판의 김종현 저 컴퓨터구조론 제5판2쇄를 기준으로 작성되었습니다.  
-> 저작권법 등의 문제로 문제를 제외한 답과 풀이만을 제공합니다.  
-> 개인적으로 학습하며 풀이하였기때문에 <font color='red'>틀린 답</font>이 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
+---  
+> 나동빈님의 [실전 알고리즘 강좌(Algorithm Programming Tutorial)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)를 바탕으로 학습하였습니다.  
+> 개인적으로 학습하며 작성한 포스트이기 때문에 <font color='red'>틀린 내용/font>이 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
 # 01장 기본문제: P.46 ~ 49
 ## **기본문제 1.1**
