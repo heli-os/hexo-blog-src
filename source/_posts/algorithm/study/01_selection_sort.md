@@ -1,5 +1,5 @@
 ---
-title: "[알고리즘 학습] 01 - 선택 정렬(Selection Sort) 
+title: "[알고리즘 학습] 01 - 선택 정렬(Selection Sort)"
 toc: false
 tags: [알고리즘,알고리즘 학습,선택 정렬,Selection Sort]
 categories:
