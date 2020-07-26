@@ -9,7 +9,7 @@ date: 2020-07-27 02:50:00
 thumbnail: /images/post_include/algorithm_study/poster.png
 ---
 > 나동빈님의 [실전 알고리즘 강좌(Algorithm Programming Tutorial)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)를 바탕으로 학습한 내용을 정리한 포스트입니다.  
-> 모든 실습 코드는 [WebKit's style guid](https://webkit.org/code-style-guidelines/)를 따라 작성됩니다.   
+> 모든 실습 코드는 [WebKit's style guide](https://webkit.org/code-style-guidelines/)를 따라 작성됩니다.   
 > 개인적으로 학습하며 작성한 포스트이기 때문에 <font color='red'>오류</font>가 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
 # 개요
