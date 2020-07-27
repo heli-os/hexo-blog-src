@@ -51,4 +51,4 @@ int main(void)
 
 이를 Big-O 표기법으로 표기하면 O(N*N) => O(N<sup>2</sup>)이 됩니다.
 
-결론: 선택 정렬의 시간 복잡도는 **O(N<sup>2</sup>)**이다.
+결론: 선택 정렬의 시간 복잡도는 <strong>O(N<sup>2</sup>)</strong>이다.
