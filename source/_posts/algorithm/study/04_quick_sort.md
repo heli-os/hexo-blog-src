@@ -13,7 +13,7 @@ thumbnail: /images/post_include/algorithm_study/poster.png
 > 개인적으로 학습하며 작성한 포스트이기 때문에 <font color='red'>오류</font>가 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
 # 소스코드
-```c
+```C
 #include <stdio.h>
 
 static const int number = 10;
