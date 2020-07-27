@@ -57,7 +57,7 @@ article:
         # Code highlight themes
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
 #        theme: railscasts
-        theme: dracula
+        theme: atom-one-dark
         # Show code copying button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
