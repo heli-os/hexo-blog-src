@@ -19,22 +19,22 @@ thumbnail: /images/post_include/algorithm_study/poster.png
 static const int number = 10;
 int data[10] = { 1, 10, 5, 8, 7, 6, 4, 3, 2, 9 };
 
-void quickSort(int* data, int start, int end)
+void quickSort(int* data, int pos_start, int pos_end)
 {
-    if (start >= end) { // 정렬 하고자 하는 집단의 원소가 1개인 경우
+    if (pos_start >= pos_end) { // 정렬 하고자 하는 집단의 원소가 1개인 경우
         return;
     }
 
-    int key = start; // 키는 첫번째 원소
-    int i = start + 1;
-    int j = end;
+    int key = pos_start; // 키는 첫번째 원소
+    int i = pos_start + 1;
+    int j = pos_end;
     int temp;
 
     while (i <= j) { // 엇갈릴 때까지 반복
         while (data[i] <= data[key]) { // 키 값보다 큰 값을 만날 때까지 오른쪽으로 이동
             i++;
         }
-        while (data[j] >= data[key] && j > start) { // 키 값보다 작은 값을 만날 때까지 왼쪽으로 이동
+        while (data[j] >= data[key] && j > pos_start) { // 키 값보다 작은 값을 만날 때까지 왼쪽으로 이동
             j--;
         }
         if (i > j) { // 현재 엇갈린 상태면 키 값과 교체
@@ -47,8 +47,8 @@ void quickSort(int* data, int start, int end)
             data[i] = temp;
         }
 
-        quickSort(data, start, j - 1);
-        quickSort(data, j + 1, end);
+        quickSort(data, pos_start, j - 1);
+        quickSort(data, j + 1, pos_end);
     }
 }
 
@@ -108,22 +108,22 @@ N이 1,000,000이라면?(정확한 차이는 아닙니다. 대략적으로 이�
 static const int number = 10;
 int data[10] = { 1, 10, 5, 8, 7, 6, 4, 3, 2, 9 };
 
-void quickSort(int* data, int start, int end)
+void quickSort(int* data, int pos_start, int pos_end)
 {
-    if (start >= end) { // 정렬 하고자 하는 집단의 원소가 1개인 경우
+    if (pos_start >= pos_end) { // 정렬 하고자 하는 집단의 원소가 1개인 경우
         return;
     }
 
-    int key = start; // 키는 첫번째 원소
-    int i = start + 1;
-    int j = end;
+    int key = pos_start; // 키는 첫번째 원소
+    int i = pos_start + 1;
+    int j = pos_end;
     int temp;
 
     while (i <= j) { // 엇갈릴 때까지 반복
         while (data[i] >= data[key]) { // 키 값보다 작은 값을 만날 때까지 오른쪽으로 이동
             i++;
         }
-        while (data[j] <= data[key] && j > start) { // 키 값보다 큰 값을 만날 때까지 왼쪽으로 이동
+        while (data[j] <= data[key] && j > pos_start) { // 키 값보다 큰 값을 만날 때까지 왼쪽으로 이동
             j--;
         }
         if (i > j) { // 현재 엇갈린 상태면 키 값과 교체
@@ -136,8 +136,8 @@ void quickSort(int* data, int start, int end)
             data[i] = temp;
         }
 
-        quickSort(data, start, j - 1);
-        quickSort(data, j + 1, end);
+        quickSort(data, pos_start, j - 1);
+        quickSort(data, j + 1, pos_end);
     }
 }
 
