@@ -5,7 +5,7 @@ tags: [알고리즘,알고리즘 학습,정렬,Sort,병합 정렬,Merge Sort]
 categories:
   - Algorithm
   - Study
-date: 2020-07-29 00:15:00
+date: 2020-07-29 00:29:00
 thumbnail: /images/post_include/algorithm_study/poster.png
 ---
 > 나동빈님의 [실전 알고리즘 강좌(Algorithm Programming Tutorial)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)를 바탕으로 학습한 내용을 정리한 포스트입니다.  
