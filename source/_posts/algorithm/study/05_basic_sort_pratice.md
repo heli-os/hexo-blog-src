@@ -12,8 +12,8 @@ thumbnail: /images/post_include/algorithm_study/poster.png
 > 실습 코드는 [WebKit's style guide](https://webkit.org/code-style-guidelines/)를 따라 C언어로 작성되었습니다.   
 > 개인적으로 학습하며 작성한 포스트이기 때문에 <font color='red'>오류</font>가 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
-# 백준 2752
-링크: [백준 2752 - 세수정렬](https://www.acmicpc.net/problem/2752)
+# 백준 2752번 - 세수정렬
+링크: [https://www.acmicpc.net/problem/2752](https://www.acmicpc.net/problem/2752)
 ```c
 #include <stdio.h>
 
@@ -47,8 +47,8 @@ int main(void)
 }
 ```
 
-# 백준 2750
-링크: [백준 2750 - 수 정렬하기](https://www.acmicpc.net/problem/2750)
+# 백준 2750 - 수 정렬하기
+링크: [https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750)
 ```c
 #include <stdio.h>
 
@@ -83,8 +83,8 @@ int main(void)
 }
 ```
 
-# 백준 2751
-링크: [백준 2751 - 수 정렬하기2](https://www.acmicpc.net/problem/2751)
+# 백준 2751 - 수 정렬하기2
+링크: [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751)
 ```c
 #include <stdio.h>
 
