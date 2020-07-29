@@ -1,5 +1,5 @@
 ---
-title: "[알고리즘 학습] 07 - C++ STL sort() 파헤치기-01"
+title: "[알고리즘 학습] 07 - C++ STL sort() 파헤치기(1)"
 toc: false
 tags: [알고리즘,알고리즘 학습,정렬,Sort,C++,Sort,STL]
 categories:
