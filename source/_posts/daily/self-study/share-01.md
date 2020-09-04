@@ -75,7 +75,7 @@ Member findMember = em.find(Member.class, member.getId());
 System.out.println("m = " + findMember.getTeam().getClass());
 ```
 ### 지연 로딩(LAZY)
-```
+```sql
 Hibernate: 
     select
         member0_.MEMBER_ID as member_i1_3_0_,
@@ -93,7 +93,7 @@ m = class Team$HibernateProxy$vijt0TeG
 ```
 Member만 SELECT하고 Team은 Proxy로 가져오는 모습 
 ### 즉시 로딩(EAGER)
-```
+```sql
 Hibernate: 
     select
         member0_.MEMBER_ID as member_i1_3_0_,
@@ -123,38 +123,38 @@ Member 조회 시 JOIN으로 TEAM까지 가져오는 모습
 * 가급적 지연 로딩만 사용(특히 실무에서)
 * 즉시 로딩을 적용하면 예상하지 못한 SQL이 발생
 * 즉시 로딩은 JPQL에서 N+1 문제를 일으킴
-  ```java
-  List<Member> members = em.createQuery("select m from Member m", Member.class)
-                      .getResultList();
-  ```
-  ```
-  Hibernate: 
-      /* select
-          m 
+```java
+List<Member> members = em.createQuery("select m from Member m", Member.class)
+                  .getResultList();
+```
+```sql
+Hibernate: 
+  /* select
+      m 
+  from
+      Member m */ select
+          member0_.MEMBER_ID as member_i1_3_,
+          member0_.createdBy as createdb2_3_,
+          member0_.createdDate as createdd3_3_,
+          member0_.lastModifiedBy as lastmodi4_3_,
+          member0_.lastModifiedDate as lastmodi5_3_,
+          member0_.TEAM_ID as team_id7_3_,
+          member0_.USERNAME as username6_3_ 
       from
-          Member m */ select
-              member0_.MEMBER_ID as member_i1_3_,
-              member0_.createdBy as createdb2_3_,
-              member0_.createdDate as createdd3_3_,
-              member0_.lastModifiedBy as lastmodi4_3_,
-              member0_.lastModifiedDate as lastmodi5_3_,
-              member0_.TEAM_ID as team_id7_3_,
-              member0_.USERNAME as username6_3_ 
-          from
-              Member member0_
-  Hibernate: 
-      select
-          team0_.TAEM_ID as taem_id1_5_0_,
-          team0_.createdBy as createdb2_5_0_,
-          team0_.createdDate as createdd3_5_0_,
-          team0_.lastModifiedBy as lastmodi4_5_0_,
-          team0_.lastModifiedDate as lastmodi5_5_0_,
-          team0_.name as name6_5_0_ 
-      from
-          Team team0_ 
-      where
-            team0_.TAEM_ID=?  
-  ```
+          Member member0_
+Hibernate: 
+  select
+      team0_.TAEM_ID as taem_id1_5_0_,
+      team0_.createdBy as createdb2_5_0_,
+      team0_.createdDate as createdd3_5_0_,
+      team0_.lastModifiedBy as lastmodi4_5_0_,
+      team0_.lastModifiedDate as lastmodi5_5_0_,
+      team0_.name as name6_5_0_ 
+  from
+      Team team0_ 
+  where
+        team0_.TAEM_ID=?  
+```
   SELECT 쿼리가 2번 나가는 모습.  
   Why? JPQL로 Member를 조회했지만 EAGER이기 때문에 연관된 엔티티를 모두 조회. 이때 Member가 서로 다른 Team를 가질 경우 그에 해당하는 SELECT 쿼리가 추가로 실행된다. 
   
@@ -175,7 +175,7 @@ Member 조회 시 JOIN으로 TEAM까지 가져오는 모습
 Parent findParent = em.find(Parent.class, parent.getId());
 findParent.getChildren().remove(0);
 ```
-```
+```sql
 Hibernate: 
     /* delete domain.Child */ delete 
         from
