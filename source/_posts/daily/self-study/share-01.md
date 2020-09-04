@@ -123,6 +123,9 @@ Member 조회 시 JOIN으로 TEAM까지 가져오는 모습
 * 가급적 지연 로딩만 사용(특히 실무에서)
 * 즉시 로딩을 적용하면 예상하지 못한 SQL이 발생
 * 즉시 로딩은 JPQL에서 N+1 문제를 일으킴
+* @ManyToOne, @OneToOne은 기본이 즉시 로딩. LAZY로 변경할 것
+* @OneToMany, @ManyToMany는 기본이 지연 로딩
+* 만약 Team도 한번에 조회하고자 한다면 JPQL fetch 조인이나 엔티티 그래프 기능을 사용할 것
 
 #### JPQL N+1 문제
 ```java
@@ -157,12 +160,8 @@ Hibernate:
   where
         team0_.TAEM_ID=?  
 ```
-  SELECT 쿼리가 2번 나가는 모습.  
-  Why? JPQL로 Member를 조회했지만 EAGER이기 때문에 연관된 엔티티를 모두 조회. 이때 Member가 서로 다른 Team를 가질 경우 그에 해당하는 SELECT 쿼리가 추가로 실행된다. 
-  
-* @ManyToOne, @OneToOne은 기본이 즉시 로딩. LAZY로 변경할 것
-* @OneToMany, @ManyToMany는 기본이 지연 로딩
-* 만약 Team도 한번에 조회하고자 한다면 JPQL fetch 조인이나 엔티티 그래프 기능을 사용할 것
+SELECT 쿼리가 2번 나가는 모습.  
+`Why?` JPQL로 Member를 조회했지만 EAGER이기 때문에 연관된 엔티티를 모두 조회. 이때 Member가 서로 다른 Team를 가질 경우 그에 해당하는 SELECT 쿼리가 추가로 실행된다. 
   
 ## 영속성 전이(CASCADE)
 * 특정 엔티티를 영속 상태로 만들 때 연관된 엔티티도 함께 영속 상태로 만들고 싶을 때 사용
