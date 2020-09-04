@@ -123,6 +123,8 @@ Member 조회 시 JOIN으로 TEAM까지 가져오는 모습
 * 가급적 지연 로딩만 사용(특히 실무에서)
 * 즉시 로딩을 적용하면 예상하지 못한 SQL이 발생
 * 즉시 로딩은 JPQL에서 N+1 문제를 일으킴
+
+#### JPQL N+1 문제
 ```java
 List<Member> members = em.createQuery("select m from Member m", Member.class)
                   .getResultList();
