@@ -16,6 +16,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 ## 개요
 * 파이썬(2) 1주차 1차시~4차시
 * 강의 내용 및 토론 내용 요약
+
 ### 학습 계획
 2020학년도 1학기 파이썬(1)이 아닌, 2019학년도 1학기 파이썬을 수강한 학생입니다. 
 
