@@ -47,9 +47,9 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 * 튜플: 변경 불가능 객체로 추가, 삭제, 변경 시 내용에 따라 새로운 튜플을 만들어야 함
 * 리스트: 같은 리스트 객체에 원소를 추가, 삭제, 변경할 수 있음
 
-* 리스트 관련 주요 에러
-  * IndexError: list index out of range => 리스트의 범위(0~N)을 벗어나는 요소에 접근했을 때 발생
-  * ValueError: 0 is not in list => 리스트에 존재하지 않는 값을 list의 count() 메소드를 이용해 탐색했을 때 발생
+리스트 관련 주요 에러
+* IndexError: list index out of range => 리스트의 범위(0~N)을 벗어나는 요소에 접근했을 때 발생
+* ValueError: 0 is not in list => 리스트에 존재하지 않는 값을 list의 count() 메소드를 이용해 탐색했을 때 발생
 
 ### (실습) 24장 문제 풀기
 > 셀프체크 24.1-24.2과 퀴즈 Q24.1
