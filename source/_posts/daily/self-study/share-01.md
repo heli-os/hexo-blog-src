@@ -12,6 +12,9 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 > 학습 내용에 대한 구체적인 사항은 별도 포스트에서 다룰 예정입니다.
 > 개인적으로 학습하며 기록하고 있기 때문에 <font color='red'>잘못된 내용</font>이 있을 수 있습니다. 잘못된 내용이 있다면 댓글로 알려주세요.  
 
+* 날짜: 2020년 09월 04일 금요일
+* 내용: JPA의 Proxy 작동 원리, Reference 관리, Fetch(EAGER, LAZY)의 차이점, 영속성 전이(CASCADE) 등에 대해 글로 정리했습니다.
+
 # JPA
 ## 프록시
 > Member를 조회할 때 Team도 함께 조회해야 할까?
