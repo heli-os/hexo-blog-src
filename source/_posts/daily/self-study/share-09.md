@@ -14,7 +14,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 # 개요
 * 날짜: 2020년 09월 12일 토요일
-* 내용: JPA 학습을 했습니다. 웹·앱 프로젝트 개발 모임 홍보 진행
+* 내용: JPA 학습을 하고, 웹·앱 프로젝트 개발 모임을 홍보했습니다.
 
 # JPA
 ## 값 타입과 불변객체
