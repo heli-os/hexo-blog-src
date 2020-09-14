@@ -48,3 +48,9 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 * Q27.3의 경우 다양한 풀이가 나올 수 있을 것 같습니다.
 * [GitHub](https://github.com/960813/ync-2nd-grade-at-2020-02/commit/ba41749244e0bd5bae274d57af84dc18f1f5e2b3)
 * [GitHub Q27.1(ver.2)](https://github.com/960813/ync-2nd-grade-at-2020-02/commit/bebebb3a499efa961b04ee8852466accde349630)
+
+# 컴퓨터정보과 프로젝트 모임 회의 공지
+* 일시: 2020년 09월 17일(목) 13:00 ~ 14:30
+* 장소: 컴퓨터정보관 디지털컨텐츠실
+* 인원: 7명(예정)
+* 내용: 모임 관련 브리핑 및 프로젝트 안건 회의
