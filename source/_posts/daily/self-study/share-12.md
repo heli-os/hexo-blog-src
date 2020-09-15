@@ -63,8 +63,14 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 # 교과 학습 - 자바프로그래밍(2)
 * abstract class, interface 복습
 
-### instanceof 연산자
+## instanceof 연산자
 * 레퍼런스가 가리키는 객체의 타입 식별을 위해 사용
 ```java
 ObjectName instanceof ClassName
 ```
+
+# 코드포코리아 메인테이너 회의
+* 코드포코리아 네이버 SEO 대응, 서버 이전 논의
+    * 아마존 한국 지부로부터 지원 받은 Credit 1,500$ 활용 예정
+    * robots.txt, RSS 등 체계적으로 재설정
+* 기타 등등 (회의록 비공개)
