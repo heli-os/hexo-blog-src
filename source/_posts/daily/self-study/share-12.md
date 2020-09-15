@@ -5,7 +5,7 @@ tags: [영남이공대학교, 자율 공부방]
 categories:
   - Daily
   - SelfStudy
-date: 2020-09-16 02:10:00
+date: 2020-09-15 23:53:00
 thumbnail: /images/post_include/daily_self-study/title.gif
 ---
 > 영남이공대학교 자율 공부 모임에 공유할 목적으로 작성하는 포스트입니다.  
