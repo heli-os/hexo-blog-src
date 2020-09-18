@@ -18,6 +18,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 # 교과 학습 - 자료구조실습
 * 배열 및 구조체 기본 복습
+
 ## 주요 커밋
 * [자료구조실습 3주차 1차시 학습](https://github.com/960813/ync-2nd-grade-at-2020-02/commit/9301f41e6664fa8f860ba67ae67b9f698fe73096)
 * [자료구조실습 3주차 학습 완료](https://github.com/960813/ync-2nd-grade-at-2020-02/commit/87a0255ac19fde4b482da8d516ce0f844f82cb29)
