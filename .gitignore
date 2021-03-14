@@ -4,9 +4,6 @@ db.json
 *.log
 node_modules/
 public/
-.deploy*/
 .idea/
-*.sh
-*.bat
 
 _secure_configure_/

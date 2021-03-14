@@ -1,0 +1,21 @@
+version: 0.0
+os: linux
+
+files:
+  - source: /
+    destination: /home/hexo-blog/blog
+    overwrite: yes
+
+permissions:
+  - object: /home/hexo-blog/blog
+    owner: hexo-blog
+    group: hexo-blog
+    mode: 755
+    type:
+      - directory
+
+hooks:
+  AfterInstall:
+    - location: deploy.sh
+      timeout: 60
+      runas: root
