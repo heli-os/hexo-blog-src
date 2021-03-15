@@ -1,6 +1,6 @@
 ---
 title: "정부에 재능 기부한 썰~ Feat.코로나 19 개인 안심번호"
-thumbnail: /images/post_include/2019-08-12-talk-how-to-study-programming_0001.jpg
+thumbnail: /images/post_include/covid19-pipc.jpg
 date: 2021-03-15 21:56:00 +0900
 toc: true
 tags: [Talk]
