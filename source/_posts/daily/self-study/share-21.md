@@ -14,4 +14,4 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 # 개요
 * 날짜: 2021년 03월 14일 일요일
-* 내용: -
+* 내용: 논문 리딩 1건, 프로젝트 기여 15건, 토익(동사)
