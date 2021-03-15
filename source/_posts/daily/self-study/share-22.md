@@ -14,7 +14,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 # 개요
 * 날짜: 2021년 03월 15일 월요일
-* 내용: Linux 서버실습, 실기교육방법론 학습
+* 내용: 교과목 Linux 서버실습, 실기교육방법론 강의를 듣고 관련 내용을 정리하며 학습했습니다.
 
 # Linux 서버실습
 ## Linux System의 구조
