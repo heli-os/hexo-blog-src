@@ -86,7 +86,9 @@ thumbnail: /images/post_include/daily_self-study/title.gif
         * 2차적 벌: 좋아하는 것을 빼앗아서 **행동이 감소**되는 것  
             예) 용돈을 주지 않음, 교통 범칙금
 * 강화 계획
+
     <img src="/images/post_include/daily_self-study/image-20210315202135027.png" alt="image-20210315202135027.png" />
+    
     * 계속강화: 매번 강화 제공(현실에선 불가능)
     * 간헐 강화
         * 시간(고정 간격): 월급 / 시간(변동 간격): 낚시
