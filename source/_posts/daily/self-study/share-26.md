@@ -45,7 +45,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 ## 테스트 프로세스와 테스팅에 필요한 구성 요소
 
-<img src="/images/post_include/daily_self-study/스크린샷 2021-03-19 오전 9.18.12.png" alt="스크린샷 2021-03-19 오전 9.18.12" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/스크린샷2021-03-19_오전_9_18_12.png" alt="스크린샷2021-03-19_오전_9_18_12.png" style="zoom:50%;" />
 
 * 이해관계자(StakeHolder): 진행하고 있는 업무와 관련있는 사람. / 그들과 함께 테스트 전략을 수립
 
