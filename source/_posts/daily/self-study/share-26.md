@@ -194,7 +194,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 p.48 ~ p.55 학습 수행
 
 # 통합데이터포털
-* 목표 방향 변경(디지털취약계층=>개발,데이터 학습자)
+목표 방향 변경(디지털취약계층=>개발,데이터 학습자)
 
 ## 공감
 * 데이터 자체 오류
