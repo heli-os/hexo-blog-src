@@ -1,6 +1,3 @@
-REPOSITORY=/home/hexo-blog/blog
-cd $REPOSITORY
-
-npm install
-
-hexo g
+git add --all
+git commit -m "Blog Update (%date%_%time%)"
+git push -u origin master
