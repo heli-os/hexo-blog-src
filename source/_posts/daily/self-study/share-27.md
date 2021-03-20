@@ -55,4 +55,5 @@ p.56 ~ p.61 학습 수행
 
 # 경북대학교 이용주 교수님 포스트 리딩
 
-https://blog.jupiterflow.com/2021/03/20/semantic_web/reading/01/
+* https://blog.jupiterflow.com/2021/03/20/semantic_web/reading/01/
+* https://blog.jupiterflow.com/2021/03/20/semantic_web/reading/02/
