@@ -16,7 +16,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 * 날짜: 2021년 03월 21일 일요일
 * 내용
     * 경북대학교 이용주 교수님 포스트 리딩 3건 진행했습니다.
-    * Semantic Web, LOD 관련 발표 영상 2건 학습했습니다.
+    * Semantic Web, LOD 관련 발표 영상 2건 시청 후 학습내용을 정리했습니다.
 
 # 경북대학교 이용주 교수님 포스트 리딩
 
