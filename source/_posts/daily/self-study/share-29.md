@@ -85,7 +85,7 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 * 교수란?
   교사와 학생이 어떤 주제에 함께 참여하여 상호작용 속에서 교사가 학생을 가르치는 활동을 말한다
 * 교수 활동: 교재 <표 3-1> 교수활동의 세 영역
-  <img src="images/post_include/daily_self-study/image-20210328120443932.png" alt="image-20210328120443932" style="zoom:50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328120443932.png" alt="image-20210328120443932" style="zoom:50%;" />
 
 #### 교수 활동의 세 영역
 
@@ -121,7 +121,7 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 
 교수의 기본 자세 = 교사의 태도
 
-<img src="images/post_include/daily_self-study/image-20210328120858850.png" alt="image-20210328120858850" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328120858850.png" alt="image-20210328120858850" style="zoom:50%;" />
 
 #### 긍정적 존중
 
@@ -144,7 +144,7 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 
 ### 교수의 3요소
 
-<img src="images/post_include/daily_self-study/image-20210328121342346.png" alt="image-20210328121342346" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328121342346.png" alt="image-20210328121342346" style="zoom:50%;" />
 
 > 학습이 일어나기 위해서는 3가지 요소 간의 상호관계가 성립되어야 한다.
 >
@@ -155,7 +155,7 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 
 ### 교수모형 - 글레이즈 모형
 
-<img src="images/post_include/daily_self-study/image-20210328121508424.png" alt="image-20210328121508424" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328121508424.png" alt="image-20210328121508424" style="zoom:50%;" />
 
 각 구간마다 피드백을 통해 학습 효율 증진을 꾀함
 
@@ -205,11 +205,11 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 > 학교학습 모형의 기본 가정 = **학습의 정도**
 
 * 학습의 정도: 수업목표에서 설정한 도달기준에 비추어 실제로 성취된 수준
-  <img src="images/post_include/daily_self-study/image-20210328123734533.png" alt="image-20210328123734533" style="zoom:50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328123734533.png" alt="image-20210328123734533" style="zoom:50%;" />
 
 ##### 주요 요인
 
-<img src="images/post_include/daily_self-study/image-20210328123839649.png" alt="image-20210328123839649" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328123839649.png" alt="image-20210328123839649" style="zoom:50%;" />
 
 * 학습에 사용한 시간 = 학습지속력 x 학습기회
 * 학습에 필요한 시간 = 적성 x 수업이해력 x 수업의 질
@@ -254,11 +254,11 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 * 완전학습: 학급 내의 95%의 학생들이 주어진 학습과제의 약 90% 이상을 완전히 학습하는 것
 * 캐롤의 학교학습모형을 기본으로 하고 있다.
 
-<img src="images/post_include/daily_self-study/image-20210328124555650.png" alt="image-20210328124555650" style="zoom: 67%;" />
+<img src="/images/post_include/daily_self-study/image-20210328124555650.png" alt="image-20210328124555650" style="zoom: 67%;" />
 
 #### 가네의 교수모형: 학습위계 모형
 
-<img src="images/post_include/daily_self-study/image-20210328125026148.png" alt="image-20210328125026148" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328125026148.png" alt="image-20210328125026148" style="zoom:50%;" />
 
 * 학습의 전제 조건
   * 선행단계가 성취될 때 후행단계의 성취가 가능하다
@@ -273,18 +273,18 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
     * 내적 조건: 선행학습, 학습동기, 자아개념, 주의집중
     * 외적 조건: 자극과 반응의 연합, 제시방법, 반복과 연습, 강화계획
 
-<img src="images/post_include/daily_self-study/image-20210328125324485.png" alt="image-20210328125324485" style="zoom:50%;" />
+<img src="/images/post_include/daily_self-study/image-20210328125324485.png" alt="image-20210328125324485" style="zoom:50%;" />
 
 ### 교수-학습상황에 관련된 요인
 
 * 학생과 관련된 요인
-  <img src="images/post_include/daily_self-study/image-20210328125632640.png" alt="image-20210328125632640" style="zoom: 50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328125632640.png" alt="image-20210328125632640" style="zoom: 50%;" />
 * 교수와 관련된 요인
-  <img src="images/post_include/daily_self-study/image-20210328125926383.png" alt="image-20210328125926383" style="zoom:50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328125926383.png" alt="image-20210328125926383" style="zoom:50%;" />
 * 교과내용과 관련된 요인
-  <img src="images/post_include/daily_self-study/image-20210328130150081.png" alt="image-20210328130150081" style="zoom:50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328130150081.png" alt="image-20210328130150081" style="zoom:50%;" />
 * 교수-학습 지도원리
-  <img src="images/post_include/daily_self-study/image-20210328130438615.png" alt="image-20210328130438615" style="zoom:50%;" />
+  <img src="/images/post_include/daily_self-study/image-20210328130438615.png" alt="image-20210328130438615" style="zoom:50%;" />
   * 자발성의 원리: 학습자가 교육에 적극적이고 자발적으로 참여
   * 개별화의 원리: 학생의 지적 능력, 소질, 적성, 가치관, 흥미 등의 개인차를 고려
   * 직관의 원리(=직접 경험의 원리): 실험, 체험 등 활동을 통해 실제 상황에 적응할 수 있도록 지원
