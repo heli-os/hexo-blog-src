@@ -279,12 +279,18 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 
 * 학생과 관련된 요인
   <img src="/images/post_include/daily_self-study/image-20210328125632640.png" alt="image-20210328125632640" style="zoom: 50%;" />
+  
 * 교수와 관련된 요인
   <img src="/images/post_include/daily_self-study/image-20210328125926383.png" alt="image-20210328125926383" style="zoom:50%;" />
+  
 * 교과내용과 관련된 요인
   <img src="/images/post_include/daily_self-study/image-20210328130150081.png" alt="image-20210328130150081" style="zoom:50%;" />
+  
 * 교수-학습 지도원리
   <img src="/images/post_include/daily_self-study/image-20210328130438615.png" alt="image-20210328130438615" style="zoom:50%;" />
+  
+  
+  
   * 자발성의 원리: 학습자가 교육에 적극적이고 자발적으로 참여
   * 개별화의 원리: 학생의 지적 능력, 소질, 적성, 가치관, 흥미 등의 개인차를 고려
   * 직관의 원리(=직접 경험의 원리): 실험, 체험 등 활동을 통해 실제 상황에 적응할 수 있도록 지원
