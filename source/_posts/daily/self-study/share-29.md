@@ -26,29 +26,37 @@ https://github.com/960813/leetcode-problems/commit/c70741e2db17bf780de08b6600ad4
 # 공직자재산공개 방식 개선 제안서 작성 회의
 
 * 제안서 수신처 (인사혁신처 소관)
-  	1. **✅ 광화문1번가 혁신제안톡 -** [**https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkListPage.do?menu_id=399**](https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkListPage.do?menu_id=399) **(여기에 올라오는 제안은 정부혁신 주제로 다뤄짐)**
-   	2. 국민신문고 공개제안 - https://www.epeople.go.kr/nep/prpsl/opnPrpl/opnpblPrpslList.npaid
-   	3. 국민청원 - https://www1.president.go.kr/petitions
-   	4. 정부혁신1번가 - https://www.innogov.go.kr/ucms/main/main.do (소개용 사이트)
-   	5. 여론을 형성하기 위해서는 국민신문고보다 광화문1번가가 더 효과적이겠습니다. 국민청원은 몇백명 이상 공감해야 해서 노출이 되지 않을 가능성도 있습니다.
+
+   1. **✅ 광화문1번가 혁신제안톡 -** [**https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkListPage.do?menu_id=399**](https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkListPage.do?menu_id=399) **(여기에 올라오는 제안은 정부혁신 주제로 다뤄짐)**
+   2. 국민신문고 공개제안 - https://www.epeople.go.kr/nep/prpsl/opnPrpl/opnpblPrpslList.npaid
+
+   3. 국민청원 - https://www1.president.go.kr/petitions
+   4. 정부혁신1번가 - https://www.innogov.go.kr/ucms/main/main.do (소개용 사이트)
+   5. 여론을 형성하기 위해서는 국민신문고보다 광화문1번가가 더 효과적이겠습니다. 국민청원은 몇백명 이상 공감해야 해서 노출이 되지 않을 가능성도 있습니다.
+
 * csv로 공개할 경우 위변조 가능성이 있어 곤란하다는 정부 입장에 대해 미리 대응하기
   1. pdf도 변조 가능
   2. 이미 뉴스타파와 MBC가 따로 가공/정리하고 있음
   3. 민간 사례 링크와 스크린샷 
   4. 데이터 가공/변환 과정에서 오류가 발생할 여지가 있는데, 정부 차원에서 바로 활용 가능한 데이터를 제공하는 것은 어떤가.
+  
 * 재산 공개
   1. 공직윤리시스템 [링크](https://www.peti.go.kr/)
   2. 공직자 재산 공개 [링크](https://www.opengirok.or.kr/4888?category=218086)
   3. 모든 공직자 재산 공개 [링크1](http://www.hani.co.kr/arti/politics/assembly/988499.html) [링크2](https://www.hankyung.com/politics/article/202103280231Y)
+  
 * 3월 30일 오전까지 제안서 완성 @모두
   1. 제안서 참고 - 코로나19 공공데이터 공동대응
      * 구글 문서 [링크](https://docs.google.com/document/d/1EM4HF8Ylg4N62grwR5Dy_IhLVjQNrBlcyl_9B__qZqw/edit#heading=h.j4m7ejpgy584)
      * 광화문1번가 [링크](https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkViewPage.do?propse_id=7a6f646cb53c4ac39ff694522ee0c04e)
+  
 * 3월 30일 광화문1번가에 제안서 업로드 @예찬
+
 * 혁신제안톡의 제안을 추가로 보낼 곳
   1. 정부혁신전략추진단, 총리 국조실 @시스
   2. 민주당 당정협의회, 행정안전위원회 소속 의원 @예찬
   3. 반부패비서관, 제도혁신비서관* / 반부패정책협의회 @홍승오
+  
 * 홍보
   1. 코드포코리아 3월 밋앤핵: 2021. 03. 30. (화)
   2. 코드포코리아 SNS: 페이스북, 블로그
