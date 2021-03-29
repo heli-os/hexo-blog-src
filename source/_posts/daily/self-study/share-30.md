@@ -5,7 +5,7 @@ tags: [영남이공대학교, 자율 공부방]
 categories:
   - Daily
   - SelfStudy
-date: 2021-03-29 23:20:00
+date: 2021-03-29 23:10:00
 thumbnail: /images/post_include/daily_self-study/title.gif
 ---
 > 영남이공대학교 자율 공부 모임에 공유할 목적으로 작성하는 포스트입니다.  
@@ -15,7 +15,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 # 개요
 * 날짜: 2021년 03월 29일 월요일
 * 내용
-    * LeetCode 문제를 풀이했습니다.
+    * LeetCode 문제(561, 238, 121, 234, 21)를 풀이했습니다.
     * 교과목 Linux서버실습 강의를 듣고 관련 내용을 정리하며 학습했습니다.
 
 # LeetCode 문제 풀이
