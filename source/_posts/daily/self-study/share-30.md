@@ -22,39 +22,31 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 ### 561. Array Partition I
 
-```
-Given an integer array nums of 2n integers, group these integers into n pairs (a1, b1), (a2, b2), ..., (an, bn) such that the sum of min(ai, bi) for all i is maximized. Return the maximized sum.
-```
+> Given an integer array nums of 2n integers, group these integers into n pairs (a1, b1), (a2, b2), ..., (an, bn) such that the sum of min(ai, bi) for all i is maximized. Return the maximized sum.
 
 https://github.com/960813/leetcode-problems/tree/main/src/561
 
 ### 238. Product of Array Except Self
 
-```
-Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
-
-The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
-```
+> Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+> 
+> The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
 
 https://github.com/960813/leetcode-problems/tree/main/src/238
 
 ### 121. Best Time to Buy and Sell Stock
 
-```
-You are given an array prices where prices[i] is the price of a given stock on the ith day.
-
-You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
-
-Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
-```
+> You are given an array prices where prices[i] is the price of a given stock on the ith day.
+>
+> You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+> 
+> Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
 https://github.com/960813/leetcode-problems/tree/main/src/121
 
 ### 234. Palindrome Linked List
 
-```
-Given the head of a singly linked list, return true if it is a palindrome.
-```
+> Given the head of a singly linked list, return true if it is a palindrome.
 
 https://github.com/960813/leetcode-problems/tree/main/src/234_1
 
@@ -62,9 +54,8 @@ https://github.com/960813/leetcode-problems/tree/main/src/234_2
 
 ### 21. Merge Two Sorted Lists
 
-```
-Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
-```
+> Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
+
 
 https://github.com/960813/leetcode-problems/tree/main/src/21
 
