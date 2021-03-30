@@ -39,6 +39,8 @@ https://www.gwanghwamoon1st.go.kr/front/propseTalk/propseTalkViewPage.do?propse_
 
 # 코드포코리아 7회 Meet&Hack
 
+https://docs.google.com/document/d/1JG3f_tSCn1APR9XKzPIb8MkxbsBDyKLT43X8GIotkz4
+
 | 시간          | 내용                                                         | 대화방 | 진행                     |
 | ------------- | ------------------------------------------------------------ | ------ | ------------------------ |
 | 20:00 ~ 20:15 | 자기소개 - 3 키워즈                                          | 전체   | @권오현                  |
