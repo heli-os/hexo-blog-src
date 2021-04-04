@@ -16,7 +16,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 * 날짜: 2021년 04월 02일 금요일
 * 내용
     * 교과목 QA실습 강의 수강 후 관련 내용을 정리하며 학습했습니다.
-    * 백준 온라인저지(www.acmicpc.net) 81문제 풀이 진행했습니다.
+    * 백준 온라인저지 81문제 풀이 진행했습니다.
 
 # QA실습
 

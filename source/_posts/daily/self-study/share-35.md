@@ -15,7 +15,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 # 개요
 * 날짜: 2021년 04월 04일 일요일
 * 내용
-    * 백준 온라인저지(www.acmicpc.net) 13문제 풀이 진행했습니다.
+    * 백준 온라인저지 13문제 풀이 진행했습니다.
     * 교과목 실기교육방법론 강의를 듣고 관련 내용을 정리하며 학습했습니다.
 
 # 백준 온라인저지 문제 풀이

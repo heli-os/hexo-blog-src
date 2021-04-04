@@ -15,7 +15,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 # 개요
 * 날짜: 2021년 04월 03일 토요일
 * 내용
-    * 백준 온라인저지(www.acmicpc.net) 44문제 풀이 진행했습니다.
+    * 백준 온라인저지 44문제 풀이 진행했습니다.
 
 # 백준 온라인저지 문제 풀이
 * https://www.acmicpc.net/problemset?sort=view_desc&user=ssun&user_solved=1&open=1
