@@ -94,7 +94,7 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 ### 일과 직업세계의 이해
 
-<img src="/images/post_include/daily_self-study/images-20210505195550017.png" alt="image-20210505195550017" style="zoom:67%;" />
+<img src="/images/post_include/daily_self-study/image-20210505195550017.png" alt="image-20210505195550017" style="zoom:67%;" />
 
 * 직업세계의 특징과 구조, 변화하는 직업세계의 요구조건과 필요한 능력, 고용경향 등 진로발달과 진로선택에 영향을 미치는 직업에 대한 폭 넓은 탐색과 자신이 원하거나 관심있는 직업에 관해 구체적인 조사
 
@@ -138,12 +138,12 @@ thumbnail: /images/post_include/daily_self-study/title.gif
 
 #### 초등학교
 
-<img src="/images/post_include/daily_self-study/images-20210505204854239.png" alt="image-20210505204854239" style="zoom:67%;" />
+<img src="/images/post_include/daily_self-study/image-20210505204854239.png" alt="image-20210505204854239" style="zoom:67%;" />
 
 #### 중학교
 
-<img src="/images/post_include/daily_self-study/images-20210505205050422.png" alt="image-20210505205050422" style="zoom: 80%;" />
+<img src="/images/post_include/daily_self-study/image-20210505205050422.png" alt="image-20210505205050422" style="zoom: 80%;" />
 
 #### 고등학교
 
-<img src="/images/post_include/daily_self-study/images-20210505205422575.png" alt="image-20210505205422575" style="zoom:80%;" />
+<img src="/images/post_include/daily_self-study/image-20210505205422575.png" alt="image-20210505205422575" style="zoom:80%;" />
